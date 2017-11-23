@@ -3,7 +3,7 @@
 // (C)2014 mgr Jerzy Wa³aszek
 //---------------------------
 
-#include <iostream>
+#include <iostream> 1234
 #include <iomanip>
 
 using namespace std;
