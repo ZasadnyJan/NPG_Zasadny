@@ -3,7 +3,7 @@
 // (C)2014 mgr Jerzy Wa³aszek
 //---------------------------
 
-#include <iostream> 1234
+#include <iostream> 123456782324
 #include <iomanip>
 
 using namespace std;
@@ -75,4 +75,4 @@ int main()
   cout << endl;
 
   return 0;
-} 
+}
