@@ -7,7 +7,7 @@
 #include <iomanip>
 
 using namespace std;
-
+//zmiana
 // Typ listy jednokierunkowej
 
 struct slistEl
