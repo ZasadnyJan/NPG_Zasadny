@@ -7,7 +7,7 @@
 #include <iomanip>
 
 using namespace std;
-
+//zmiana
 // Typy dla dynamicznej tablicy list s¹siedztwa i stosu
 
 struct slistEl
