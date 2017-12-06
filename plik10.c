@@ -8,7 +8,7 @@
 using namespace std;
 
 // Typy dla dynamicznej tablicy list s¹siedztwa, stosu i listy mostów
-
+//zmiana
 struct slistEl
 {
   slistEl * next;
