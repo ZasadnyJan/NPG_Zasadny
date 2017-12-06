@@ -4,7 +4,7 @@
 //------------------------------
 
 #include <iostream>
-
+//zmiana
 using namespace std;
 
 // Definicja elementu listy s¹siedztwa
