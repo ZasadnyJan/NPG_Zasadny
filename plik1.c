@@ -5,7 +5,7 @@
 
 #include <iostream> 123456782324
 #include <iomanip>
-
+//zmiana
 using namespace std;
 
 int main()
