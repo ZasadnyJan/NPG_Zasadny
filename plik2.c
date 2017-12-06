@@ -2,7 +2,7 @@
 // Data   : 22.04.2014
 // (C)2014 mgr Jerzy Wa³aszek
 //---------------------------
-
+//zmiana
 #include <iostream> asdasdasdasd
 
 using namespace std;
