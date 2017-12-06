@@ -5,7 +5,7 @@
 
 #include <iostream>
 #include <string>
-
+//zmiana
 using namespace std;
 
 const int MAXINT = -2147483647;
